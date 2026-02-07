@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Self CC Care - Adaptive Exercise Planner",
+  "description": "A health-focused application that designs and adjusts personalized exercise plans based on user feedback (pain levels, ease of exercise, and frequency of breaks) using Gemini AI.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
